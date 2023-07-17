@@ -14,6 +14,7 @@ body {
   
   .navbar-brand {
     padding-top: 25px;
+    padding-bottom: 10px;
   }
   .navbar-brand h1 { /* Company name */
     font-family: 'Lora', serif;
