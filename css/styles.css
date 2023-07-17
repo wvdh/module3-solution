@@ -9,7 +9,7 @@ body {
   #header-nav {
     background-color: #b1aea7;
     border-radius: 0;
-    border: 0;
+    border: 5px;
   }
   
   .navbar-brand {
