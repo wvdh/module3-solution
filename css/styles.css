@@ -10,14 +10,13 @@ body {
     background-color: #a09e9a;
     border-radius: 0;
     border: 0;
+    top: 0;
     position:fixed;
-  } 
-  /**   top: 0;
     width: 100%; 
-  **/
-  
+  } 
+    
   .navbar-brand {
-    padding-top: 25px;
+    padding-top: 10px;
   }
 
   .navbar-brand h1 { /* Company name */
