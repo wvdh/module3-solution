@@ -30,4 +30,13 @@ body {
   }
   .navbar-brand a:hover, .navbar-brand a:focus {
     text-decoration: none;
-  }   
+  }
+  
+  .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+    border: 1px solid #000000;
+  }
+  .navbar-header button.navbar-toggle {
+    clear: both;
+    margin-top: -30px;
+  }
+  /* END HEADER */
