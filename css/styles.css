@@ -2,7 +2,7 @@ body {
     font-size: 16px;
     color: #000;
     background-color: #fff;
-    font-family: 'Oxygen', sans-serif;
+    font-family: 'Verdana', sans-serif;
   }
   
   /** HEADER **/
@@ -11,21 +11,22 @@ body {
     border-radius: 0;
     border: 0;
     position:fixed;
-    top: 0;
+  } 
+  /**   top: 0;
     width: 100%; 
-   }
+  **/
   
   .navbar-brand {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 25px;
   }
+
   .navbar-brand h1 { /* Company name */
-    font-family: 'Lora', serif;
+    font-family: 'Verdana', sans-serif;
     color: #000000;
-    font-size: 1.6em;
+    font-size: 1.5em;
     font-weight: bold;
-    margin-top: 10px;
-    margin-bottom: 15px;
+    margin-top: 0px;
+    margin-bottom: 0px;
     line-height: .75;
   }
   .navbar-brand a:hover, .navbar-brand a:focus {
