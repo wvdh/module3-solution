@@ -42,3 +42,16 @@ body {
     color: #fff
   }
   /* END HEADER */
+
+  h1 {
+    margin-top: 30px;
+    margin-bottom: 20px; 
+    text-align: center;
+    font-size: 175%;
+ }
+ 
+ .menu {
+  background-color: gray;
+  margin:10px;
+  border:1px solid black;
+}
