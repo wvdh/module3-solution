@@ -74,6 +74,7 @@ body {
  .row {
    background-color: #a09e9a;
    width: 90%;
+   outline-offset: 15px;
    margin-right: auto;
    margin-left: auto;
    padding:10px;
