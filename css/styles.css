@@ -50,11 +50,14 @@ body {
     font-size: 175%;
  }
  
- /* .menu {
+ .menuhead {
     background-color: gray;
+    font-weight: bold;
+    text-align: center;
     margin: 10px;
+    font-size: 150%;
    }
- */
+ 
  .title {
      width: 100px;
      text-align: center;
