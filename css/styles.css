@@ -44,7 +44,7 @@ body {
   /* END HEADER */
 
   h1 {
-    margin-top: 50px;
+    margin-top: 60px;
     margin-bottom: 30px; 
     text-align: center;
     font-size: 175%;
@@ -69,6 +69,7 @@ body {
  }
  
  .row {
+   background-color: gray;
    width: 100%;
    margin-right: auto;
    margin-left: auto;
