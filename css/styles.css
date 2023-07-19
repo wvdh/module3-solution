@@ -9,7 +9,7 @@ body {
   #header-nav {
     background-color: #a09e9a;
     border-radius: 0;
-    border 0, 5px 0, 5px;
+    border: 0, 5px, 0 5px;
     border-color: #000;
     top: 0;
     position:fixed;
@@ -44,7 +44,7 @@ body {
   /* END HEADER */
 
   h1 {
-    margin-top: 30px;
+    margin-top: 40px;
     margin-bottom: 20px; 
     text-align: center;
     font-size: 175%;
