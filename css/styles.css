@@ -9,7 +9,7 @@ body {
   #header-nav {
     background-color: #a09e9a;
     border-radius: 0;
-    border: 0, 5px, 0 5px;
+    border: 0, 10px, 0 10px;
     border-color: #000;
     top: 0;
     position:fixed;
@@ -28,11 +28,17 @@ body {
     margin-top: 10px;
     margin-bottom: 10px;
     line-height: .75;
+  /*
   }
   .navbar-brand a:hover, .navbar-brand a:focus {
     text-decoration: none;
   }
-  
+  */
+  }
+  .navbar-brand a:hover, .navbar-brand {
+    text-decoration: none;
+  }
+
   .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
     border: 1px solid  #fff;
   }
