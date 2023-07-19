@@ -51,7 +51,7 @@ body {
  }
  
  .menuhead {
-    background-color: gray;
+    background-color: #a09e9a;
     font-weight: bold;
     text-align: center;
     margin: 10px;
@@ -72,7 +72,7 @@ body {
  }
  
  .row {
-   background-color: gray;
+   background-color: #a09e9a;
    width: 100%;
    margin-right: auto;
    margin-left: auto;
