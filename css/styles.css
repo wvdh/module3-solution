@@ -47,23 +47,18 @@ body {
     margin-top: 60px;
     margin-bottom: 30px; 
     text-align: center;
+    font-weight: bold;
     font-size: 175%;
  }
  
- .menuhead {
+ .title {
     background-color: #a09e9a;
     font-weight: bold;
     text-align: center;
     margin: 10px;
     font-size: 150%;
    }
-/* 
- .title {
-     width: 100px;
-     text-align: center;
-     font-size: 125%;
- }
- */
+
  .content {
     margin: 10px;
     margin-top: 40px;
