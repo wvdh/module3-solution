@@ -44,15 +44,38 @@ body {
   /* END HEADER */
 
   h1 {
-    margin-top: 40px;
-    margin-bottom: 20px;
-    font-weight: bold; 
+    margin-top: 30px;
+    margin-bottom: 20px; 
     text-align: center;
     font-size: 175%;
  }
  
  .menu {
-  background-color: gray;
-  margin:10px;
-  border:1px solid black;
-}
+    background-color: gray;
+    margin:10px;
+    border:1px solid black;
+ }
+ 
+ .title {
+     width: 100px;
+     float:right;
+     border: 1px solid black;
+     text-align: center;
+     font-size: 125%;
+     float:right;
+ }
+ 
+ .content {
+    margin:10px;
+    margin-top:40px;
+    clear:both;
+ }
+ 
+ .row {
+   width: 100%;
+   border: 5px;
+   margin-right: auto;
+   margin-left: auto;
+   padding:5px;
+ }
+ 
