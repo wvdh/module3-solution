@@ -44,8 +44,8 @@ body {
   /* END HEADER */
 
   h1 {
-    margin-top: 30px;
-    margin-bottom: 20px; 
+    margin-top: 50px;
+    margin-bottom: 30px; 
     text-align: center;
     font-size: 175%;
  }
@@ -58,8 +58,6 @@ body {
  
  .title {
      width: 100px;
-     float:right;
-     border: 1px solid black;
      text-align: center;
      font-size: 125%;
      float:right;
@@ -73,7 +71,6 @@ body {
  
  .row {
    width: 100%;
-   border: 5px;
    margin-right: auto;
    margin-left: auto;
    padding:5px;
