@@ -57,18 +57,17 @@ body {
     margin: 10px;
     font-size: 150%;
    }
- 
+/* 
  .title {
      width: 100px;
      text-align: center;
      font-size: 125%;
-     float:right;
  }
- 
+ */
  .content {
-    margin:10px;
-    margin-top:40px;
-    clear:both;
+    margin: 10px;
+    margin-top: 40px;
+    clear: both;
  }
  
  .row {
@@ -76,6 +75,6 @@ body {
    width: 100%;
    margin-right: auto;
    margin-left: auto;
-   padding:5px;
+   padding:10px;
  }
  
