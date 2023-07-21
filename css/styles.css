@@ -93,6 +93,7 @@ h1 {
   text-align: left;
   width: 100%;
   outline-offset: 10px;
+  margin-block-end: 10px;
 }
 
 .title {
