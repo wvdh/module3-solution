@@ -12,11 +12,34 @@
   <header>
     <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top">
       <a class="navbar-brand" href="#">Food, LLC</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#navbarOffcanvasLg" aria-controls="navbarOffcanvasLg" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-      <div class="offcanvas offcanvas-end" tabindex="-1" id="navbarOffcanvasLg" aria-labelledby="navbarOffcanvasLgLabel">
-      </div>
+
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapsable-nav" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    
+    <div id="collapsable-nav" class="collapse navbar-collapse">
+       <ul id="nav-list" class="nav navbar-nav navbar-right">
+        <li class="visible-xs active">
+          <a href="#">
+            <span class="glyphicon glyphicon-home"></span> Chicken</a>
+        </li>
+        <li>
+          <a href="#">
+            <span class="glyphicon glyphicon-cutlery"></span><br class="hidden-xs"> Beef</a>
+        </li>
+        <li>
+          <a href="#">
+            <span class="glyphicon glyphicon-info-sign"></span><br class="hidden-xs"> Shusi</a>
+        </li>
+      </ul><!-- #nav-list -->
+    </div><!-- .collapse .navbar-collapse -->
+
+
+
     </nav>
   </header>
 
