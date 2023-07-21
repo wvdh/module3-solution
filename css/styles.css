@@ -80,14 +80,15 @@ h1 {
   background-color: #a09e9a;
   font-weight: bold;
   text-align: center;
-  /* margin: 10px; */
+  margin: 10px;
   font-size: 125%;
  }
 
 .content {
   margin: 10px;
   margin-top: 20px;
-  clear: both;
+  padding: 10px
+  /*clear: both;*/
 }
 
 /********** Large devices only **********/
