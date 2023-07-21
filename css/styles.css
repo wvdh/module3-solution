@@ -86,14 +86,12 @@ h1 {
 .row {
    background-color:  #a09e9a;
    width: 100%;
-/*   outline-offset: 10px;
-   */   
+   outline-offset: 10px;
 }
 
 .container-fluid {
   background-color: #fff;
-  width: 90%;
-  text-align: center;
+  width: 95%;
 }
 
 .title {
