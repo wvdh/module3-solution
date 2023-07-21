@@ -78,6 +78,7 @@ h1 {
 
 .container-fluid {
   background-color: #fff;
+  width: 90%;
   text-align: center;
 }
 
