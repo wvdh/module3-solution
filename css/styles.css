@@ -70,7 +70,10 @@ h1 {
 .row {
    background-color:  #a09e9a;
    width: 100%;
-   margin: 20px;
+   margin-top: 10px;
+   margin-bottom: 20px;
+   margin-right: 150px;
+   margin-left: 80px;
    padding:10px;
 }
 
