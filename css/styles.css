@@ -76,13 +76,18 @@ h1 {
    */   
 }
 
+.container {
+  background-color: #fff;
+  text-align: center;
+}
+
 .title {
   background-color: #a09e9a;
   font-weight: bold;
   text-align: center;
   margin: 10px;
   font-size: 125%;
- }
+}
 
 .content {
   margin: 10px;
