@@ -1,12 +1,5 @@
 /********** This is the CSS stylesheet for Assignment Solution Module 3 - WvdH **********/
 
-body {
-  font-size: 16px;
-  color: #000;
-  background-color: #fff;
-  font-family: 'Verdana', sans-serif;
-}
-  
 /** HEADER **/
 #header-nav {
   background-color: #a09e9a;
@@ -22,7 +15,7 @@ body {
   padding: 10px;
 }
 
-.navbar-brand h1 { /* Company name */
+.navbar-brand { /* Company name */
   font-family: 'Verdana', sans-serif;
   color: #000000;
   font-size: 1.7em;
@@ -56,7 +49,14 @@ body {
   background-color: #fff
 }
 
-/* END HEADER */
+/** END HEADER **/
+
+body {
+  font-size: 16px;
+  color: #000;
+  background-color: #fff;
+  font-family: 'Verdana', sans-serif;
+}
 
 h1 {
 /*  margin-top: 60px;
