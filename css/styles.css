@@ -9,15 +9,17 @@ body {
   font-family: 'Verdana', sans-serif;
 }
 
+/*
 #header-nav {
   background-color: #a09e9a;
- /* border-radius: 0;
-  border: 15px; */ 
+  border-radius: 0;
+  border: 15px;  
   border-color: #000;
   top: 0;
   position:fixed;
   width: 100%;
  } 
+*/
 
 .navbar-brand { /* Company name */
   font-family: 'Verdana', sans-serif;
