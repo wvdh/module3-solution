@@ -14,7 +14,7 @@ body {
   border-bottom: 2px solid #000;
 }
 
-.navbar-brand h1 { /* Company name */
+.navbar-brand p { /* Company name */
   font-family: 'Verdana', sans-serif;
   color: #000;
   background-color: #a09e9a;
@@ -33,13 +33,6 @@ body {
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid #000;
 }
-
-/*
-.navbar-list {
-border: 1px solid  #000;
-background-color: #fff;
-}
-*/
 
 .navbar-header button.navbar-toggle {
   clear: both;
