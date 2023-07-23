@@ -14,6 +14,8 @@ body {
   border-radius: 0;
   border: 15px;  
   border-color: #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
 }
 
 /**  
@@ -40,8 +42,6 @@ body {
   background-color: #a09e9a;
   font-size: 1.7em;
   font-weight: bold;
-  border-top: 2px solid #000;
-  border-bottom: 2px solid #000;
   margin-top: 0;
   margin-bottom: 0;
   line-height: .75;
