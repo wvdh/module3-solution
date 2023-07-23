@@ -54,11 +54,10 @@ background-color: #fff;
   border: 1px solid #000;
 	text-align: center;
 }
-
 /** END HEADER **/
 
 h1 {
-  margin-top: 60px;
+  margin-top: 40px;
   margin-bottom: 40px;
   text-align: center;
   font-weight: bold;
@@ -91,7 +90,7 @@ h1 {
   margin-top: 10px;
   padding: 10px
 }
-
+/*
 /********** Large devices only **********/
 @media (min-width: 1200px) {
 }
