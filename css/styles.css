@@ -39,19 +39,18 @@ body {
 
 .navbar-list {
 border: 1px solid  #000;
-background-color: #fff
+background-color: #fff;
 }
 
 .navbar-header button.navbar-toggle {
   clear: both;
   margin-top: -30px;
-  color: #fff
+  color: #fff;
 }
 
-.nav-list {
-  font-size: 32px;
-  color: #000;
-  background-color: #fff
+#nav-list a {
+	color: #fff;
+	text-align: center;
 }
 
 /** END HEADER **/
