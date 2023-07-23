@@ -25,12 +25,10 @@ body {
   line-height: .75;
 }
 
-
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
   border: 1px solid #fff;
 }
-
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid #000;
@@ -60,7 +58,7 @@ background-color: #fff;
 /** END HEADER **/
 
 h1 {
-  margin-top: 80px;
+  margin-top: 60px;
   margin-bottom: 40px;
   text-align: center;
   font-weight: bold;
