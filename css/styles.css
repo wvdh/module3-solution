@@ -31,25 +31,29 @@ body {
   border: 1px solid  #fff;
 }
 
-/*
+
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid  #fff;
 }
-*/
 
+/*
 .navbar-list {
 border: 1px solid  #000;
 background-color: #fff;
 }
+*/
 
 .navbar-header button.navbar-toggle {
   clear: both;
+  border: 1px solid  #000;
   margin-top: -30px;
   color: #fff;
 }
 
 #nav-list a {
-	color: #fff;
+  color: #000;
+  background-color: #fff;
+  border: 1px solid  #000;
 	text-align: center;
 }
 
