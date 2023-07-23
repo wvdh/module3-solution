@@ -20,6 +20,7 @@ body {
   background-color: #a09e9a;
   font-size: 32px;
   font-weight: bold;
+  text-align: left;
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
