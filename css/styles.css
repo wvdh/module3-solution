@@ -37,6 +37,11 @@ body {
 }
 */
 
+.navbar-list {
+border: 1px solid  #000;
+background-color: #fff
+}
+
 .navbar-header button.navbar-toggle {
   clear: both;
   margin-top: -30px;
