@@ -98,13 +98,18 @@ h1 {
 
 /********** Small devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
+  .container-fluid {
+    width: 80%;}
 }  
 
-
 /********** Extra small devices only **********/
-@media (max-width: 767px) {
+@media (min-width: 480px) and (max-width: 767px) {
+  .container-fluid {
+    width: 80%;}
 }
 
 /********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
 @media (max-width: 479px) {
+  .container-fluid {
+    width: 80%;}
 }
