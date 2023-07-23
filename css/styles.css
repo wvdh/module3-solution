@@ -14,7 +14,7 @@ body {
   border-bottom: 2px solid #000;
 }
 
-.navbar-brand p { /* Company name */
+.navbar-brand a { /* Company name */
   font-family: 'Verdana', sans-serif;
   color: #000;
   background-color: #a09e9a;
