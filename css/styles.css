@@ -63,21 +63,17 @@ body {
 }
 */
 
-
 .navbar-header button.navbar-toggle {
   clear: both;
   margin-top: -30px;
   color: #fff
 }
 
-
-
 .nav-list {
   font-size: 32px;
   color: #000;
   background-color: #fff
 }
-
 
 /** END HEADER **/
 
