@@ -48,7 +48,11 @@ h1 {
   font-weight: bold;
   font-size: 175%;
 }
- 
+
+h2 {
+  padding-top: 10px;
+}
+
 .container-fluid {
   background-color: #fff;
   width: 98%;
