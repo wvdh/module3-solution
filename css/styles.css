@@ -20,9 +20,6 @@ body {
   background-color: #a09e9a;
   font-size: 32px;
   font-weight: bold;
-  margin-top: 0;
-  margin-bottom: 0;
-  line-height: .75;
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
