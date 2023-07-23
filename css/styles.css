@@ -54,6 +54,10 @@ background-color: #fff;
   border: 1px solid #000;
 	text-align: center;
 }
+
+#nav-list a:hover {
+	background-color: #fff;
+}
 /** END HEADER **/
 
 h1 {
@@ -102,18 +106,21 @@ h1 {
 /********** Small devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
   .container-fluid {
-   width: 90%;}
+		width: 80%;
+		margin: 20px auto 0;
 }  
 
 
 /********** Extra small devices only **********/
 @media (max-width: 767px) {
   .container-fluid {
-    width: 90%;}
+		width: 80%;
+		margin: 20px auto 0;
 }
 
 /********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
 @media (max-width: 479px) {
   .container-fluid {
-    width: 90%;}
+		width: 80%;
+		margin: 20px auto 0;
 }
