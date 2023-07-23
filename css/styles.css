@@ -12,8 +12,6 @@ body {
 #header-nav {
   background-color: #a09e9a;
   border-radius: 0;
-  border: 15px;  
-  border-color: #000;
   border-top: 2px solid #000;
   border-bottom: 2px solid #000;
 }
