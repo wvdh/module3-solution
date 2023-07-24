@@ -14,7 +14,7 @@ a.navbar-brand {
 .container-fluid {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  background-color: #999999;
+  background-color: #a09e9a;
 }
 
 h1 {
@@ -51,7 +51,7 @@ h2.menu {
 .container-fluid {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  background-color: #999999;
+  background-color: #a09e9a;
 }
 
 .navbar {
@@ -77,7 +77,7 @@ h2.menu {
 }
 
 .container {
-  background-color: #999999;
+  background-color: #a09e9a;
   width: 100%;
   margin-top: 20px;
   margin-bottom: 20px;
