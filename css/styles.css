@@ -33,9 +33,23 @@ a.navbar-brand {
   border: 0;
   border: 1px solid black;
 }
+/** END HEADER **/
 
-h1 {
+h1 { /* Company name */
   font-weight: bold;
+}
+
+.row {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.container-fluid {
+  background-color: #a09e9a;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 1px solid black;
 }
 
 h2 {
@@ -64,15 +78,3 @@ p > a {
   float: right;
 }
 
-.row {
-  margin-left: 2%;
-  margin-right: 2%;
-}
-
-.container {
-  background-color: #a09e9a;
-  width: 100%;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  border: 1px solid black;
-}
