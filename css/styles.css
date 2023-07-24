@@ -22,13 +22,12 @@ h1 {
 }
 
 h2 {
-  padding-top: 10px;
+  padding-top: 5px;
   font-weight: bold;
 }
 
 h3 {
-  padding: 10px
-  font-weight: bold;
+  padding-top: 5px;
 }
 
 p {
@@ -40,8 +39,7 @@ p {
 
 p > a {
   text-decoration: none;
-  font-size: small;
-  float:right;
+  float: right;
 }
 
 h2.menu {
