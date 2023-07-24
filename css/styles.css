@@ -11,12 +11,18 @@ a.navbar-brand {
   padding-left: 5%;
 }
 
+h1 {
+  font-weight: bold;
+}
+
 h2 {
   padding-top: 10px;
+  font-weight: bold;
 }
 
 h3 {
-  padding-top: 10px;
+  padding: 10px
+  font-weight: bold;
 }
 
 p {
@@ -63,7 +69,6 @@ h2.menu {
   margin-left: 2.5%;
   margin-right: 2.5%;
 }
-
 
 .container {
   background-color: #999999;
