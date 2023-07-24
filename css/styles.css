@@ -43,6 +43,10 @@ h2 {
   font-weight: bold;
 }
 
+h2.menu {
+  padding: 2.5vw;
+}
+
 h3 {
   padding-top: 5px;
   font-weight: bold;
@@ -58,10 +62,6 @@ p {
 p > a {
   text-decoration: none;
   float: right;
-}
-
-h2.menu {
-  padding: 2.5vw;
 }
 
 .row {
