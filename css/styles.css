@@ -1,5 +1,4 @@
 /********** This is the CSS stylesheet for Assignment Solution Module 3 - WvdH **********/
-
 * {
   box-sizing: border-box;
   margin: 0;
@@ -7,8 +6,15 @@
   font-family: 'Verdana', sans-serif;
 }
 
+/** HEADER **/
 a.navbar-brand {
   padding-left: 5%;
+}
+
+.container-fluid {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  background-color: #999999;
 }
 
 h1 {
