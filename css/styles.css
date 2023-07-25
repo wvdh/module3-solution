@@ -44,7 +44,6 @@ h2 {
   font-weight: bold;
 }
 
-
 h2.menu {
   padding: 2.5vw;
 }
@@ -54,6 +53,20 @@ h3 {
   padding-top: 5px;
   font-weight: bold;
 }
+
+
+.row {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.container {
+  background-color: #a09e9a;
+  width: 120%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 
 p {
   padding: 5px;
@@ -66,16 +79,3 @@ p > a {
   text-decoration: none;
   float: right;
 }
-
-.row {
-  margin-left: 2%;
-  margin-right: 2%;
-}
-
-.container {
-  background-color: #a09e9a;
-  width: 100%;
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
-
