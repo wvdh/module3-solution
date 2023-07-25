@@ -23,15 +23,15 @@ a.navbar-brand {
 }
 
 .nav-link {
-  border-bottom: 0.5px solid black;
-  border-top: 0.5px solid black;
+  border-bottom: 0.5px solid #000;
+  border-top: 0.5px solid #000;
 }
 
 #header-nav {
-  background-color: white;
+  background-color: #fff;
   border-radius: 0;
   border: 0;
-  border: 1px solid black;
+  border: 1px solid #000;
 }
 /** END HEADER **/
 
@@ -76,6 +76,7 @@ p {
 }
 
 p > a {
+  text-decoration-color: #000;
   text-decoration: none;
   float: right;
 }
