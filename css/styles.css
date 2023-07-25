@@ -35,7 +35,7 @@ a.navbar-brand {
 }
 /** END HEADER **/
 
-h1 { /* Company name */
+h1 { /** Company name **/
   font-weight: bold;
 }
 
@@ -56,9 +56,14 @@ h3 {
 p {
   padding: 5px;
   padding-bottom: 10px;
+
+}
+
+/*
   line-height: 2em;
   text-align: justify;
-}
+  */
+
 
 p > a {
   background-color: #a09e9a;
