@@ -59,6 +59,9 @@ p {
 
 }
 
+divBlock {
+  margin-bottom: 20px;
+}
 /*
   line-height: 2em;
   text-align: justify;
