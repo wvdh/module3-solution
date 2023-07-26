@@ -38,15 +38,17 @@ a.navbar-brand {
 /*  border: 1px solid #fff;*/
 
 /** END HEADER **/
-
+/*
 h1 { /** Company name **/
-  font-weight: bold;
-}
+  /*font-weight: bold;*/
+
 
 h2 {
   padding-top: 5px;
-  font-weight: bold;
+
 }
+
+/*font-weight: bold;*/
 
 h2.menu {
   padding: 3px;
@@ -56,9 +58,12 @@ h2.menu {
 
 h3 {
   padding-top: 5px;
-  font-weight: bold;
-}
 
+}
+/*
+  font-weight: bold;
+  */
+  
 p {
   padding: 5px;
   padding-bottom: 10px;
