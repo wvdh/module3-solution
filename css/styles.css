@@ -31,8 +31,8 @@ a.navbar-brand {
   background-color: #fff;
   border-radius: 0;
   border: 0;
-  border-bottom: 5px solid #000;
-  border-top: 5px solid #000;
+  border-bottom: 4px solid #000;
+  border-top: 4px solid #000;
 }
 
 /*  border: 1px solid #fff;*/
@@ -46,14 +46,15 @@ h1 { /** Company name **/
 h2 {
   padding-top: 10px;
   padding-bottom: 10px;
+  font-weight: bold;
 }
 
 /*font-weight: bold;*/
 
 h2.menu {
-  padding: 3px;
+  padding: 2.5vw;
 }
-/*padding: 2.5vw;*/
+
 
 
 h3 {
