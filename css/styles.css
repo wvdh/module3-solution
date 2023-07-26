@@ -34,14 +34,7 @@ a.navbar-brand {
   border-bottom: 4px solid #000;
   border-top: 4px solid #000;
 }
-
-/*  border: 1px solid #fff;*/
-
 /** END HEADER **/
-/*
-h1 { /** Company name **/
-  /*font-weight: bold;*/
-
 
 h2 {
   padding-top: 10px;
@@ -70,11 +63,6 @@ p {
 #divBlock {
   margin-bottom: 20px;
 }
-/*
-  line-height: 2em;
-  text-align: justify;
-  */
-
 
 p > a {
   background-color: #a09e9a;
@@ -82,12 +70,10 @@ p > a {
   float: right;
 }
 
-
 .row {
   margin-left: 2.5%;
   margin-right: 2.5%;
 }
-
 
 .container-fluid mt-1{
   background-color: #a09e9a;
