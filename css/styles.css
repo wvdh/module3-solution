@@ -49,21 +49,13 @@ h2 {
   font-weight: bold;
 }
 
-/*font-weight: bold;*/
-
 h2.menu {
-  padding: 2.5vw;
+  padding: 2vw;
 }
 
-
-
-h3 {
+h4 {
   padding-top: 5px;
-
 }
-/*
-  font-weight: bold;
-  */
 
 p {
   padding: 5px;
@@ -90,12 +82,12 @@ p > a {
   float: right;
 }
 
-/*
+
 .row {
   margin-left: 2.5%;
   margin-right: 2.5%;
 }
-*/
+
 
 .container-fluid mt-1{
   background-color: #a09e9a;
